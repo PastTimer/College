@@ -1,0 +1,19 @@
+import cv2
+import numpy as np
+
+width,height = 500,500
+canvas = np.zeros((height,width,3),dtype=np.uint8)
+
+p1 = (100,100)
+p2 = (100,400)
+p3 = (400,400)
+p4 = (400,100)
+
+cv2.line(canvas,p1,p2,(255,0,0),6)
+cv2.line(canvas,p2,p3,(200,0,0),6)
+cv2.line(canvas,p3,p4,(150,0,0),6)
+cv2.line(canvas,p4,p1,(100,0,0),6)
+
+cv2.imshow("Square",canvas)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
