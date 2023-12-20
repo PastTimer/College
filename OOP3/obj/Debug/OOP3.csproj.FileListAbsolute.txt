@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\bin\Debug\OOP3.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\bin\Debug\OOP3.pdb
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\obj\Debug\OOP3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\obj\Debug\OOP3.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\OOP3\obj\Debug\OOP3.pdb

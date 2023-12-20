@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\bin\Debug\midterm4.exe.config
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\bin\Debug\midterm4.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\bin\Debug\midterm4.pdb
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\obj\Debug\midterm4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\obj\Debug\midterm4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\obj\Debug\midterm4.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm4\obj\Debug\midterm4.pdb
