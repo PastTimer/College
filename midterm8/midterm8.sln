@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midterm8", "midterm8.csproj", "{47279D36-134D-4102-8008-34955F5BEDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47279D36-134D-4102-8008-34955F5BEDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47279D36-134D-4102-8008-34955F5BEDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47279D36-134D-4102-8008-34955F5BEDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47279D36-134D-4102-8008-34955F5BEDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245B4021-5B96-4407-B41F-24934F67007D}
+	EndGlobalSection
+EndGlobal

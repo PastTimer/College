@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\bin\Debug\midterm8.exe.config
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\bin\Debug\midterm8.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\bin\Debug\midterm8.pdb
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\obj\Debug\midterm8.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\obj\Debug\midterm8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\obj\Debug\midterm8.exe
+C:\Users\LENOVO\Documents\School\BSIT\2nd Year\1st sem\OOP\midterm8\obj\Debug\midterm8.pdb
