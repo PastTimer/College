@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    background-color:rgb(211, 53, 53);
+}
+.box2 {
+    background-color: rgb(53, 211, 63);
+}
+.box3 {
+    background-color: rgb(27, 52, 100);
+}
